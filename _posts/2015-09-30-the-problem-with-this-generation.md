@@ -1,4 +1,7 @@
-# The problem with "this" generation
+---
+layout: post
+title: The problem with "this" generation
+---
 
 We've all heard it before.  I've no doubt that the oldest and wisest of all our parents and grandparents have begun many a rants with those words.  "The problem with this generation is..."
 
